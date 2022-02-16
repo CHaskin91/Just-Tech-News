@@ -23,3 +23,10 @@
 * Created a route allowing a user to vote on a post.
 * Queried for related data to see who has voted on which posts.
 * Cleaned up some of the code with a custom static Sequelize model method.
+
+## Lesson 5
+* Created a new `Comment` model that stored user id's and post id's.
+* Established multiple `belongsTo` and `hasMany` relationships.
+* Created routes that allow for getting, creating, and deleting comments.
+* Updated existing routes to include additional models.
+* Deployed a MySQL app to Heroku using the JawsDB add-on.
