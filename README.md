@@ -16,3 +16,10 @@
 * We used an ORM to translate the object model into a relational data model using associations.
 * When defining the `Post` model, we included references to the primary key and then defined the foreign key relationship with the model associations.
 * When defining the routes for the `post` table, we used key properties like `include` in the database requests, to add fields from associated tables like the post's `username`.
+
+## Lesson 4
+* Created a new Vote model to store data about who's voting on which posts.
+* Implemented a many-to-many model association using Sequelize.
+* Created a route allowing a user to vote on a post.
+* Queried for related data to see who has voted on which posts.
+* Cleaned up some of the code with a custom static Sequelize model method.
