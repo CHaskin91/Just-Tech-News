@@ -34,3 +34,11 @@
 ## Module 14 - Lesson 1
 * Use proper code organization paradigms in a full-stack app.
 * Use a template engine to deliver front-end files.
+
+## Module 14 - Lesson 2 
+* Used Express.js and Sequelize to implement sessions.
+* Managed front-end JavaScript logic in an MVC app.
+
+## Module 14 - Lesson 3 
+* Use session data within a template.
+* Write conditionals to change a template's layout.
