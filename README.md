@@ -55,3 +55,8 @@
 
 - Implement helper functions in Handlebars.js
 - Use Handlebars.js partials to templatize duplicate HTML.
+
+## Module 14 - Lesson 5
+
+- Write middleware functions for Express.js
+- Use middleware to restrict access to certain routes.
